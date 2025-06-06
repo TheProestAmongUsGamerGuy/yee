@@ -1,0 +1,13 @@
+Steps to Disable Speed Limiter on ACTBEST Apex E-Bike:
+
+1. Power on the bike.
+2. Hold "+" and "−" buttons together for 3–5 seconds to enter settings.
+3. Navigate to setting "P08" using the "Power" or "Mode" button.
+4. Increase "P08" value to "100" using "+" button (100 = no limit).
+5. Press "Mode" again or wait to save and exit.
+6. If locked, try passcodes: 0000, 1234, 6666, or 8888.
+
+Note:
+- No speed wire to cut – limiter is software-based.
+- Use off-road only. Exceeding 28 mph may be illegal on public roads.
+- Removing the limiter may void your warranty.
